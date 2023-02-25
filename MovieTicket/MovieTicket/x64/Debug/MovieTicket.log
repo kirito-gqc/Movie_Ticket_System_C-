@@ -1,0 +1,4 @@
+﻿  Menu.cpp
+D:\Degree 2 - DSTR\DSTR Assignment\MovieTicket\MovieTicket\Menu.cpp(599): warning C4717: 'menuMovie': recursive on all control paths, function will cause runtime stack overflow
+D:\Degree 2 - DSTR\DSTR Assignment\MovieTicket\MovieTicket\Menu.cpp(881): warning C4717: 'menuPurchase': recursive on all control paths, function will cause runtime stack overflow
+  MovieTicket.vcxproj -> D:\Degree 2 - DSTR\DSTR Assignment\MovieTicket\x64\Debug\MovieTicket.exe
